@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head>
+    <dateCreated>Sun, 18 May 2014 21:58:57 +0000</dateCreated>
+    <title>Tiny Tiny RSS Feed Export</title>
+  </head>
+  <body>
+    <outline text="All About Microsoft | ZDNet" xmlUrl="http://www.zdnet.com/blog/microsoft/rss" htmlUrl="http://www.zdnet.com/blog/microsoft/"/>
+    <outline text="Cloud" xmlUrl="http://gigaom.com/channel/cloud/?feed=rss2" htmlUrl="http://gigaom.com/channel/cloud/"/>
+    <outline text="Signal vs. Noise" xmlUrl="http://feeds.feedburner.com/37signals/beMH" htmlUrl="http://feeds.feedburner.com/37signals/"/>
+    <outline text="Business Model Alchemist" xmlUrl="http://businessmodelalchemist.com/blog?format=rss" htmlUrl="http://businessmodelalchemist.com/"/>
+    <outline text="Interoperability Happens" xmlUrl="http://blogs.tedneward.com/SyndicationService.asmx/GetRss" htmlUrl="http://blogs.tedneward.com/SyndicationService.asmx/"/>
+    <outline text="PredictWise" xmlUrl="http://www.predictwise.com/rss" htmlUrl="http://www.predictwise.com/"/>
+    <outline text="ben's blog" xmlUrl="http://www.bhorowitz.com/blog.rss" htmlUrl="http://www.bhorowitz.com/"/>
+    <outline text="Big Data | GigaOM" xmlUrl="http://gigaom.com/channel/data/feed/" htmlUrl="http://gigaom.com/channel/data/feed/"/>
+    <outline text="Luis Galindo" xmlUrl="http://feeds.feedburner.com/http/wwwluisgalindocom/feed" htmlUrl="http://feeds.feedburner.com/http/wwwluisgalindocom/"/>
+    <outline text="Crash Dev" xmlUrl="http://www.crashdev.com/feeds/posts/default" htmlUrl="http://www.crashdev.com/feeds/posts/"/>
+    <outline text="Customer Development Labs" xmlUrl="http://customerdevlabs.com/feed/" htmlUrl="http://customerdevlabs.com/feed/"/>
+    <outline text="GeekWire - Dispatches from the Digital Frontier" xmlUrl="http://feeds.feedburner.com/geekwire" htmlUrl="http://feeds.feedburner.com/"/>
+    <outline text="Simon Phipps's blog" xmlUrl="http://www.infoworld.com/blogs/simon-phipps/feed" htmlUrl="http://www.infoworld.com/blogs/simon-phipps/"/>
+    <outline text="Kent Beck's Facebook Notes" xmlUrl="https://www.facebook.com/feeds/notes.php?id=612973674&amp;viewer=615953913&amp;key=AWi8W84tVcHvAuA2&amp;format=rss20" htmlUrl="https://www.facebook.com/feeds/"/>
+    <outline text="Lessons Learned" xmlUrl="http://www.startuplessonslearned.com/feeds/posts/default" htmlUrl="http://www.startuplessonslearned.com/feeds/posts/"/>
+    <outline text="Paul Graham: Essays" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss" htmlUrl="http://www.aaronsw.com/2002/feeds/"/>
+    <outline text="Martin Fowler" xmlUrl="http://www.martinfowler.com/feed.atom" htmlUrl="http://martinfowler.com"/>
+    <outline text="Mobile Opportunity" xmlUrl="http://mobileopportunity.blogspot.com/feeds/posts/default" htmlUrl="http://mobileopportunity.blogspot.com/feeds/posts/"/>
+    <outline text="NorbertoGallego.com" xmlUrl="http://feeds.feedburner.com/norbertogallegocom" htmlUrl="http://feeds.feedburner.com/"/>
+    <outline text="Open Source Insider" xmlUrl="http://www.computerweekly.com/blogs/open-source-insider/atom.xml" htmlUrl="http://www.computerweekly.com/blogs/open-source-insider/"/>
+    <outline text="Rough Type" xmlUrl="http://www.roughtype.com/?feed=rss2" htmlUrl="http://www.roughtype.com/"/>
+    <outline text="Steve Blank" xmlUrl="http://steveblank.com/feed/" htmlUrl="http://steveblank.com/feed/"/>
+    <outline text="TechCafe" xmlUrl="http://www.npost.com/techcafe/feed/" htmlUrl="http://www.npost.com/techcafe/feed/"/>
+    <outline text="ZDNet | Linux And Open Source Blog RSS" xmlUrl="http://www.zdnet.com/blog/open-source/rss.xml" htmlUrl="http://www.zdnet.com/blog/open-source/"/>
+    <outline text="tt-rss-prefs" schema-version="120">
+      <outline pref-name="ALLOW_DUPLICATE_POSTS" value="false"/>
+      <outline pref-name="AUTO_ASSIGN_LABELS" value="true"/>
+      <outline pref-name="BLACKLISTED_TAGS" value="main, generic, misc, uncategorized, blog, blogroll, general, news"/>
+      <outline pref-name="CDM_AUTO_CATCHUP" value="false"/>
+      <outline pref-name="CDM_EXPANDED" value="false"/>
+      <outline pref-name="COMBINED_DISPLAY_MODE" value="true"/>
+      <outline pref-name="CONFIRM_FEED_CATCHUP" value="false"/>
+      <outline pref-name="DEFAULT_ARTICLE_LIMIT" value="30"/>
+      <outline pref-name="DEFAULT_UPDATE_INTERVAL" value="240"/>
+      <outline pref-name="DIGEST_CATCHUP" value="false"/>
+      <outline pref-name="DIGEST_ENABLE" value="false"/>
+      <outline pref-name="DIGEST_PREFERRED_TIME" value="00:00"/>
+      <outline pref-name="ENABLE_API_ACCESS" value="false"/>
+      <outline pref-name="ENABLE_FEED_CATS" value="false"/>
+      <outline pref-name="FEEDS_SORT_BY_UNREAD" value="false"/>
+      <outline pref-name="FRESH_ARTICLE_MAX_AGE" value="24"/>
+      <outline pref-name="HIDE_READ_FEEDS" value="false"/>
+      <outline pref-name="HIDE_READ_SHOWS_SPECIAL" value="false"/>
+      <outline pref-name="LONG_DATE_FORMAT" value="D, M d Y - G:i"/>
+      <outline pref-name="ON_CATCHUP_SHOW_NEXT_FEED" value="false"/>
+      <outline pref-name="PURGE_OLD_DAYS" value="30"/>
+      <outline pref-name="PURGE_UNREAD_ARTICLES" value="true"/>
+      <outline pref-name="REVERSE_HEADLINES" value="false"/>
+      <outline pref-name="SHORT_DATE_FORMAT" value="M d, G:i"/>
+      <outline pref-name="SHOW_CONTENT_PREVIEW" value="true"/>
+      <outline pref-name="SORT_HEADLINES_BY_FEED_DATE" value="false"/>
+      <outline pref-name="SSL_CERT_SERIAL" value=""/>
+      <outline pref-name="STRIP_IMAGES" value="false"/>
+      <outline pref-name="STRIP_UNSAFE_TAGS" value="true"/>
+      <outline pref-name="USER_CSS_THEME" value="default.css"/>
+      <outline pref-name="USER_LANGUAGE" value="auto"/>
+      <outline pref-name="USER_STYLESHEET" value=""/>
+      <outline pref-name="USER_TIMEZONE" value="Automatic"/>
+      <outline pref-name="VFEED_GROUP_BY_FEED" value="false"/>
+      <outline pref-name="_COLLAPSED_FEEDLIST" value="true"/>
+      <outline pref-name="_COLLAPSED_LABELS" value="false"/>
+      <outline pref-name="_COLLAPSED_SPECIAL" value="false"/>
+      <outline pref-name="_COLLAPSED_UNCAT" value="false"/>
+      <outline pref-name="_DEFAULT_INCLUDE_CHILDREN" value="false"/>
+      <outline pref-name="_DEFAULT_VIEW_LIMIT" value="30"/>
+      <outline pref-name="_DEFAULT_VIEW_MODE" value="unread"/>
+      <outline pref-name="_DEFAULT_VIEW_ORDER_BY" value="default"/>
+      <outline pref-name="_ENABLED_PLUGINS" value=""/>
+      <outline pref-name="_MOBILE_BROWSE_CATS" value="true"/>
+      <outline pref-name="_MOBILE_ENABLE_CATS" value="false"/>
+      <outline pref-name="_MOBILE_HIDE_READ" value="false"/>
+      <outline pref-name="_MOBILE_REVERSE_HEADLINES" value="false"/>
+      <outline pref-name="_MOBILE_SHOW_IMAGES" value="false"/>
+      <outline pref-name="_MOBILE_SORT_FEEDS_UNREAD" value="false"/>
+      <outline pref-name="_PREFS_ACTIVE_TAB" value=""/>
+      <outline pref-name="_PREFS_SHOW_EMPTY_CATS" value="false"/>
+      <outline pref-name="_THEME_ID" value="0"/>
+    </outline>
+    <outline text="tt-rss-labels" schema-version="120"/>
+    <outline text="tt-rss-filters" schema-version="120"/>
+  </body>
+</opml>

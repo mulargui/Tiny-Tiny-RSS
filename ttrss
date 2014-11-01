@@ -1,0 +1,3 @@
+# start-stop-daemon --start -b --exec /usr/bin/php /var/www/ttrss/update.php -- --daemon --quiet
+start-stop-daemon --start -b --exec /usr/bin/php5 /var/www/ttrss/update.php -- --daemon --quiet
+ 
